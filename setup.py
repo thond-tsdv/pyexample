@@ -8,7 +8,7 @@ except IOError:
 
 setup(
     name='thond',
-    version='0.1.0',    
+    version='0.1.2',
     description='A example Python package',
     url='https://github.com/thond-tsdv/pyexample',
     author='Nguyen Dat Tho',
